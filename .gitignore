@@ -1,0 +1,31 @@
+# Entornos virtuales y dependencias
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno y credenciales (¡CRÍTICO!)
+.env
+.env.local
+.env.*
+
+# Bases de datos SQLite
+*.db
+*.sqlite3
+bot_database.db
+sms_bot.db
+
+# Logs y archivos temporales
+*.log
+logs/
+temp/
+scratch/
+
+# IDEs y Editores de texto
+.vscode/
+.idea/
+*.swp
+*.swo

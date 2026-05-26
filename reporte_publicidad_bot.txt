@@ -1,0 +1,72 @@
+============================================================
+🚀 REPORTE PUBLICITARIO: BOT DE CÓDIGOS DE ACCESO (ACCESS OTP)
+============================================================
+
+🛡️ INFRAESTRUCTURA DE CÓDIGOS AUTOMATIZADA
+La llave de acceso para todas tus plataformas, sin esperas.
+
+Este sistema actúa como un puente inteligente entre los correos de seguridad y el cliente final. Si una plataforma pide un código, el bot lo entrega en segundos.
+
+✅ Detección Instantánea
+✅ Entrega Segura en Telegram
+✅ Gestión de Accesos 24/7
+
+------------------------------------------------------------
+📊 ESTRUCTURA DE RANGOS (SISTEMA DE ACCESO)
+------------------------------------------------------------
+
+El bot permite escalar una red de distribución de códigos de forma jerárquica:
+
+👑 OWNER (MÁSTER):
+   - Control total de la base de datos de accesos.
+   - Generación de rangos para distribuidores.
+   - Visión global de todos los códigos procesados.
+
+💼 SELLER (MAYORISTA):
+   - Distribuidor de licencias de administración.
+   - Crea y gestiona su propia red de gestores de códigos.
+   - Ideal para modelos de negocio B2B.
+
+🛠️ ADMIN (GESTOR DE ACCESOS):
+   - El "operador" del sistema.
+   - Registra los correos que el bot debe vigilar.
+   - Asigna y renueva los accesos a los clientes finales.
+
+👤 USER (USUARIO FINAL):
+   - El beneficiario del código.
+   - Recibe alertas automáticas cada vez que se genera un código de acceso o link de recuperación.
+
+------------------------------------------------------------
+🚀 FUNCIONES PRINCIPALES: CÓDIGOS AL INSTANTE
+------------------------------------------------------------
+
+🔹 EXTRACCIÓN INTELIGENTE DE OTP:
+El bot no solo lee correos, ENTIENDE los códigos. Extrae automáticamente números de 6 dígitos, códigos alfanuméricos y botones de "Acceso Directo" para enviarlos limpios al usuario.
+
+🔹 MONITOREO DE SEGURIDAD:
+Vigilancia constante de bandejas de entrada. Ideal para:
+- Netflix (Códigos de hogar/viaje)
+- HBO Max (Verificación de inicio)
+- Disney+ / Star+
+- Amazon Prime (Links de aprobación)
+
+🔹 HISTORIAL DE ACCESOS:
+Cada código enviado queda guardado en un log privado. El usuario puede consultar /historial para recuperar códigos anteriores o verificar actividad.
+
+🔹 GESTIÓN DE VENCIMIENTOS:
+El sistema de códigos no es eterno. El bot controla cuándo vence el acceso de un usuario y le notifica automáticamente para que renueve su suscripción al código.
+
+------------------------------------------------------------
+💎 POR QUÉ USAR NUESTRO BOT DE CÓDIGOS
+------------------------------------------------------------
+
+✅ Elimina el Soporte Manual: Ya no tienes que entrar al correo para darle el código al cliente. El bot lo hace por ti.
+✅ Evita Fraudes: Los registros de auditoría permiten saber quién pidió cada código y a qué hora.
+✅ Escalabilidad Real: Puedes gestionar 10 o 10,000 cuentas de acceso con el mismo esfuerzo.
+
+¿Buscas eficiencia? Automatiza tus accesos hoy mismo.
+Contacta para adquirir tu rango y profesionalizar tu entrega de códigos.
+
+------------------------------------------------------------
+*Senior Systems Engineering | Protocolo de Acceso Seguro | SaaS Automation*
+============================================================
