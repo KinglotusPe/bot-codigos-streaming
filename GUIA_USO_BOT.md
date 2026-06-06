@@ -51,7 +51,7 @@ Una vez que `python main.py` está corriendo:
 
 1. **Email Monitor**: Revisa tu Gmail cada 60 segundos
 2. **Detección**: Cuando llega un email de HBO Max automáticamente:
-   - Extrae el destinatario (`scameranonimo@gmail.com`)
+   - Extrae el destinatario (`s*********@gmail.com`)
    - Valida que sea email de seguridad
    - Extrae el código
    - Lo envía a Telegram
@@ -75,7 +75,7 @@ HBO Max envía código → Gmail lo reenvía → Bot lo detecta (en 60s)
 
 1. Asegúrate que `python main.py` está corriendo
 2. Ve a HBO Max
-3. Solicita código para `scameranonimo@gmail.com`
+3. Solicita código para `s**********o@gmail.com`
 4. Espera máximo 60 segundos
 5. El código llegará automáticamente a Telegram
 
@@ -137,7 +137,7 @@ Todo lo demás (scripts de diagnóstico, send_code_now.py, etc.) son HERRAMIENTA
 
 - ✅ Código extraído correctamente: F6F6F6
 - ✅ Telegram funcionando: @AccessLotus_Bot
-- ✅ Base de datos configurada: scameranonimo@gmail.com → Usuario 8188519256
+- ✅ Base de datos configurada: s**********@gmail.com → Usuario 8188519256
 - ✅ Platform config arreglado: Detecta "Urgente: Tu..."
 
 **TODO ESTÁ LISTO**. Solo necesitas ejecutar `python main.py` y dejarlo corriendo.
